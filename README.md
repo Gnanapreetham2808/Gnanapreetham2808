@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Gnanapreetham2808&color=blueviolet)
+ 
   
 </div>
 
@@ -10,44 +10,72 @@
 
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Always eager to collaborate on exciting projects and contribute to the open-source community!
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Types of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **With Stacknets**
+- 🌱 I'm currently learning **RAG, LangChain , Ai Agents , MLOps , AWS Cloud**
+- 👯 I'm looking to collaborate on **Full Stack & AIML Projects**
+- 📫 How to reach me: **preethamreddy2808@gmail.com**
+
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+## 🧠 Tech Stack
 
-### Frameworks & Libraries
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Libraries  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Netmiko](https://img.shields.io/badge/-Netmiko-00BFFF?style=flat-square&logo=cisco&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121D33?style=flat-square&logo=chainlink&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### Tools & Platforms
+---
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 🤖 AI & ML Skills  
+![Transformer Models](https://img.shields.io/badge/-Transformer%20Models-FFB6C1?style=flat-square&logo=openai&logoColor=black)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-FF69B4?style=flat-square&logo=robotframework&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-2E8B57?style=flat-square&logo=knowledgebase&logoColor=white)
+
+---
+
+### 💻 Software Engineering  
+![DSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-4682B4?style=flat-square)
+![OOPs](https://img.shields.io/badge/-OOPs%20Concepts-20B2AA?style=flat-square)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF4500?style=flat-square&logo=swagger&logoColor=white)
+
+---
+
+### 🧰 Developer Tools & BI  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
-## 📊 GitHub Stats
+### 🧩 Soft Skills  
+💼 Leadership • 🗣️ Communication • 🤝 Teamwork • 🎯 Mentorship
 
-<div align="center">
-  
-  ![Gnanapreetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gnanapreetham2808&theme=radical)
-  
-</div>
+
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -61,17 +89,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gnanapreetham2808&theme=radical)
 
-## 🎯 Featured Projects
-
-### [Project Name 1](https://github.com/Gnanapreetham2808/project-1)
-Brief description of your awesome project. What it does and technologies used.
-- 🔥 Key feature 1
-- ⚡ Key feature 2
-
-### [Project Name 2](https://github.com/Gnanapreetham2808/project-2)
-Brief description of another cool project.
-- 🚀 Key feature 1
-- 💡 Key feature 2
 
 ## 🤝 Connect With Me
 
