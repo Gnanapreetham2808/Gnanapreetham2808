@@ -10,7 +10,7 @@
 
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Always eager to collaborate on exciting projects and contribute to the open-source community!
 
-- 🔭 I'm currently working on **With Stacknets**
+- 🔭 I'm currently working **With Stacknets**
 - 🌱 I'm currently learning **RAG, LangChain , Ai Agents , MLOps , AWS Cloud**
 - 👯 I'm looking to collaborate on **Full Stack & AIML Projects**
 - 📫 How to reach me: **preethamreddy2808@gmail.com**
