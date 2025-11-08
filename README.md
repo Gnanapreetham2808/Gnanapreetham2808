@@ -98,7 +98,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
   
 
   
-  ![Visitor Count](https://profile-counter.glitch.me/Gnanapreetham2808/count.svg)
+
   
   ⭐️ From [Gnanapreetham2808](https://github.com/Gnanapreetham2808)
   
