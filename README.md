@@ -1,4 +1,4 @@
-# Hi there, I'm Gnanapreetham! 👋
+# Hi there, I'm preetham Reddy! 👋
 
 <div align="center">
   
@@ -77,17 +77,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Gnanapreetham2808&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
-</div>
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gnanapreetham2808&theme=radical)
 
 
 ## 🤝 Connect With Me
