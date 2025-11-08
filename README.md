@@ -49,8 +49,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 💼 Leadership • 🗣️ Communication • 🤝 Teamwork • 🎯 Mentorship
 
-### 🧩 Soft Skills  
-💼 Leadership • 🗣️ Communication • 🤝 Teamwork • 🎯 Mentorship
+
 
 
 
