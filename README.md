@@ -91,21 +91,12 @@ I'm a passionate developer who loves building innovative solutions and learning 
   
 </div>
 
-## 💻 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
   
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
   
   ![Visitor Count](https://profile-counter.glitch.me/Gnanapreetham2808/count.svg)
   
