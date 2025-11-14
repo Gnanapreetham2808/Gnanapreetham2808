@@ -2,7 +2,6 @@
 
 <div align="center">
   
- 
   
 </div>
 
@@ -17,9 +16,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 
 ## 🛠️ Tech Stack
-
-
- 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -52,10 +48,9 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 
 
+## 📊 GitHub Stats
 
-
-
-
+![Gnanapreetham2808's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=default)
 
 
 ## 🤝 Connect With Me
@@ -69,16 +64,12 @@ I'm a passionate developer who loves building innovative solutions and learning 
   
 </div>
 
-
 ---
 
 <div align="center">
   
-
   
 
-  
   ⭐️ From [Gnanapreetham2808](https://github.com/Gnanapreetham2808)
   
 </div>
-```
