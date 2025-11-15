@@ -1,19 +1,16 @@
-# Hi there, I'm preetham Reddy! 👋
+# Hi there, I'm Preetham Reddy! 👋
 
 <div align="center">
-  
-  
 </div>
 
 ## 🚀 About Me
 
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Always eager to collaborate on exciting projects and contribute to the open-source community!
 
-- 🔭 I'm currently working **With Stacknets**
-- 🌱 I'm currently learning **RAG, LangChain , Ai Agents , MLOps , AWS Cloud**
-- 👯 I'm looking to collaborate on **Full Stack & AIML Projects**
-- 📫 How to reach me: **preethamreddy2808@gmail.com**
-
+- 🔭 I'm currently working **with Stacknets**
+- 🌱 I'm actively learning **RAG, LangChain, AI Agents, MLOps, AWS Cloud**
+- 👯 Looking to collaborate on **Full Stack & AI/ML Projects**
+- 📫 Reach me at: **preethamreddy2808@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -45,13 +42,11 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 💼 Leadership • 🗣️ Communication • 🤝 Teamwork • 🎯 Mentorship
 
-
-
-
 ## 📊 GitHub Stats
 
 ![Gnanapreetham2808's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=default)
 
+**✨ All-time commits in this repo: 11**
 
 ## 🤝 Connect With Me
 
@@ -61,15 +56,10 @@ I'm a passionate developer who loves building innovative solutions and learning 
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  
-
   ⭐️ From [Gnanapreetham2808](https://github.com/Gnanapreetham2808)
-  
 </div>
