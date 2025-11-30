@@ -7,7 +7,6 @@
 
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Always eager to collaborate on exciting projects and contribute to the open-source community!
 
-- 🔭 I'm currently working **with Stacknets**
 - 🌱 I'm actively learning **RAG, LangChain, AI Agents, MLOps, AWS Cloud**
 - 👯 Looking to collaborate on **Full Stack & AI/ML Projects**
 - 📫 Reach me at: **preethamreddy2808@gmail.com**
@@ -41,12 +40,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 💼 Leadership • 🗣️ Communication • 🤝 Teamwork • 🎯 Mentorship
-
-## 📊 GitHub Stats
-
-![Gnanapreetham2808's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=default)
-
-**✨ All-time commits in this repo: 11**
 
 ## 🤝 Connect With Me
 
