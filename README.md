@@ -51,23 +51,23 @@ I am a results-driven developer passionate about engineering innovative solution
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=transparent&hide_border=true&title_color=007396&text_color=555" alt="Preetham's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=transparent&hide_border=true&title_color=007396&text_color=555" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=radical" alt="Preetham's GitHub Stats" />
   </a>
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnanapreetham2808&theme=transparent&hide_border=true&stroke=000000&ring=007396&fire=FF6F00&currStreakNum=336791&sideNums=336791&currStreakLabel=007396&sideLabels=007396" alt="Commit Streak" />
+  <a href="https://github.com/Gnanapreetham2808">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/Gnanapreetham2808">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnanapreetham2808&theme=radical" alt="Commit Streak" />
+  </a>
 </div>
-
----
 
 ## 🤝 Connect With Me
 
