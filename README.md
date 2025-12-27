@@ -56,16 +56,16 @@ I am a results-driven developer passionate about engineering innovative solution
 
 <div align="center">
   <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=radical" alt="Preetham's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api? username=Gnanapreetham2808&show_icons=true&theme=radical&cache_seconds=1800" alt="Preetham's GitHub Stats" />
   </a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
   </a>
   <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnanapreetham2808&theme=radical" alt="Commit Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp. com/?user=Gnanapreetham2808&theme=radical" alt="Commit Streak" />
   </a>
 </div>
 
