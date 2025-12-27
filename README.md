@@ -1,58 +1,92 @@
 # Hi there, I'm Preetham Reddy! 👋
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=100&section=header"/>
+  <h3>Full Stack Developer | AI & Machine Learning Enthusiast</h3>
 </div>
 
-## 🚀 About Me
+<br/>
 
-I'm a passionate developer who loves building innovative solutions and learning new technologies. Always eager to collaborate on exciting projects and contribute to the open-source community!
+## 🚀 Professional Summary
 
-- 🌱 I'm actively learning **RAG, LangChain, AI Agents, MLOps, AWS Cloud**
-- 👯 Looking to collaborate on **Full Stack & AI/ML Projects**
-- 📫 Reach me at: **preethamreddy2808@gmail.com**
+I am a results-driven developer passionate about engineering innovative solutions and mastering emerging technologies. My focus lies at the intersection of **Full Stack Development** and **Artificial Intelligence**, where I build scalable applications and intelligent agents. I am actively contributing to open-source ecosystems and seeking opportunities to collaborate on impactful projects.
 
-## 🛠️ Tech Stack
+- 🔭 **Currently focusing on:** RAG Pipelines, LangChain, AI Agents, MLOps, and AWS Cloud Architecture.
+- 🤝 **Open to collaboration on:** Enterprise-grade Full Stack applications & GenAI projects.
+- 📫 **Contact me:** [preethamreddy2808@gmail.com](mailto:preethamreddy2808@gmail.com)
 
+---
+
+## 🛠️ Technical Arsenal
+
+### 🧠 AI, ML & Data Science
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121D33?style=flat-square&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFB6C1?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/-RAG-2E8B57?style=flat-square&logo=nvidia&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-GenAI-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-FF69B4?style=flat-square&logo=robotframework&logoColor=white)
+
+### 💻 Web Development & APIs
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Netmiko](https://img.shields.io/badge/-Netmiko-00BFFF?style=flat-square&logo=cisco&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121D33?style=flat-square&logo=chainlink&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Transformer Models](https://img.shields.io/badge/-Transformer%20Models-FFB6C1?style=flat-square&logo=openai&logoColor=black)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-FF69B4?style=flat-square&logo=robotframework&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-2E8B57?style=flat-square&logo=knowledgebase&logoColor=white)
-![DSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-4682B4?style=flat-square)
-![OOPs](https://img.shields.io/badge/-OOPs%20Concepts-20B2AA?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF4500?style=flat-square&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 🗄️ Databases & Visualization
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Netmiko](https://img.shields.io/badge/-Netmiko-00BFFF?style=flat-square&logo=cisco&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-💼 Leadership • 🗣️ Communication • 🤝 Teamwork • 🎯 Mentorship
+---
 
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/Gnanapreetham2808">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gnanapreetham2808&show_icons=true&theme=transparent&hide_border=true&title_color=007396&text_color=555" alt="Preetham's GitHub Stats" />
+  </a>
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+  <a href="https://github.com/Gnanapreetham2808">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=transparent&hide_border=true&title_color=007396&text_color=555" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnanapreetham2808&theme=transparent&hide_border=true&stroke=000000&ring=007396&fire=FF6F00&currStreakNum=336791&sideNums=336791&currStreakLabel=007396&sideLabels=007396" alt="Commit Streak" />
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
-  ⭐️ From [Gnanapreetham2808](https://github.com/Gnanapreetham2808)
+  <a href="https://www.linkedin.com/in/somireddy-gnana-preetham-reddy-917ab024a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:preethamreddy2808@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Gnanapreetham2808">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Innovation distinguishes between a leader and a follower."</i>
+  <br/>
+  <sub>© 2025 Preetham Reddy | <a href="https://github.com/Gnanapreetham2808">Gnanapreetham2808</a></sub>
 </div>
