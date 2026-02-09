@@ -49,25 +49,7 @@ I am a results-driven developer passionate about engineering innovative solution
 ![Netmiko](https://img.shields.io/badge/-Netmiko-00BFFF?style=flat-square&logo=cisco&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-stats.vercel.app/api? username=Gnanapreetham2808&show_icons=true&theme=radical&cache_seconds=1800" alt="Preetham's GitHub Stats" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanapreetham2808&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/Gnanapreetham2808">
-    <img src="https://github-readme-streak-stats.herokuapp. com/?user=Gnanapreetham2808&theme=radical" alt="Commit Streak" />
-  </a>
-</div>
 
 ## 🤝 Connect With Me
 
